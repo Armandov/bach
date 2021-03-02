@@ -24,3 +24,10 @@ echo "<!DOCTYPE html>
 </body>
 </html>" >> ./indexa.html
 open ./indexa.html
+#Si deseas realizar más cambios en su sitio de prueba y cargarlos en GitHub,
+#simplemente tendrás que realizar el cambio en tus archivos como antes. 
+#A continuación, debes introducir los siguientes comandos 
+
+#git add --all
+#git commit -m 'another commit'
+#git push

@@ -3,7 +3,7 @@ document.getElementById("myHead").innerHTML =
 +"<meta name='viewport' content='width=device-width, initial-scale=1.0'>"
 +"<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' integrity='sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm' crossorigin='anonymous'>"
 +"<style>.navbar-dark .navbar-nav .nav-link {color: rgb(0, 0, 0);}.navbar-dark .navbar-nav .active>.nav-link { color: rgb(0, 0, 0);}</style>"
-+"<title> JavaScritp</title>";
++"<title> JavaScritpt</title>";
 document.getElementById("myNav").innerHTML =
 "<nav class='navbar navbar-expand-lg navbar-dark bg-primary bg-warning ' >  "
 +"<a class='navbar-brand text-dark ' href='#'> JavaScript</a>"
